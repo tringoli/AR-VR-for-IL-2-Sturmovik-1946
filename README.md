@@ -1,4 +1,4 @@
-**EN**/ru
+**EN**/[ru](https://github.com/tringoli/AR-VR-for-Il-2-Sturmovik-1946/blob/main/README-RU.md)
 
 # Welcome!
 This manual as repository has been created for collecting all knowable ways to implement AR and VR for IL-2 Sturmovik: 1946. There are a bunch of ways for AR/VR on Windows, *Linux and MacOS (soon™)*
