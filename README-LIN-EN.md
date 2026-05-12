@@ -12,7 +12,6 @@ AR/VR should work with mods due to differences in technical solutions.
 This is the most suitable route for those who just want to try it out. Here we present two options: a completely free one and a budget-friendly one.
 
 ### Budget AR
-
 There are many AR devices available in stores/marketplaces in your country. **Please be careful:** IL-2 may have issues adapting due to a lack of software and/or device compatibility. A list of recommended devices for purchase is not provided; the choice is yours.
 
 #### What do we need?
@@ -29,7 +28,6 @@ There are many AR devices available in stores/marketplaces in your country. **Pl
 The most affordable option on Linux. It is based on head tracking using the AI ​​built into OpenTrack. You can use your smartphone *or webcam*.
 
 #### What do we need?
-
 1. OpenTrack ([GitHub](https://github.com/opentrack/opentrack))
 2. ["NeuralNet tracker with ONXX"](https://github.com/opentrack/opentrack/wiki/Building-on-linux#4-optional-dependences)
 3. Any app for turning your smartphone into a PC camera. *Try DroidCam, for example*
@@ -87,11 +85,9 @@ The most stable method for most VR headsets. It should work correctly if your VR
 4. Enjoy!
 
 ### WiVRn
-
 This path is designed to improve performance by directly streaming IL-2 to the VR headset.
 
 #### What do we need?
-
 1. WiVRn ([GitHub](https://github.com/WiVRn/WiVRn))
 
 #### Setup
