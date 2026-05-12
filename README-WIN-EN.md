@@ -24,7 +24,7 @@ There are many AR devices available in stores and marketplaces in your country. 
 1. Install OpenTrack
 2. Prepare your AR device (as described in the product manual)
 3. Open OpenTrack. Select…
-4. Launch IL-2. If successful, the in-game camera will follow your head.
+4. Launch IL-2. If successful, the in-game camera will follow your head
 
 5. Enjoy!
 
@@ -35,14 +35,14 @@ It's based on head tracking using the AI ​​built into OpenTrack. You can use
 
 1. Opentrack ([GitHub](https://github.com/opentrack/opentrack))
 2. Any app for turning your smartphone into a PC camera. *You can try Camo Studio to get started*
-3. For low latency, we recommend using a USB cable or stable 5G Wi-Fi.
+3. For low latency, we recommend using a USB cable or stable 5G Wi-Fi
 
 #### Setup
 1. Install Opentrack
-2. Prepare your smartphone. Its primary/selected camera should correctly record your head, taking into account lighting, to avoid tracking inaccuracies.
-3. Open the camera software on both your PC and smartphone.
+2. Prepare your smartphone. Its primary/selected camera should correctly record your head, taking into account lighting, to avoid tracking inaccuracies
+3. Open the camera software on both your PC and smartphone
 4. Open Opentrack. Select…
-5. Launch IL-2. If successful, the in-game camera will follow your head.
+5. Launch IL-2. If successful, the in-game camera will follow your head
 
 6. Enjoy!
 
@@ -61,19 +61,18 @@ The most stable method for most VR headsets. It should work correctly if your VR
 
 #### What do we need?
 
-1. SteamVR
+1. [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 2. Software for converting output from a PC to a VR monitor. *This can be any program you're familiar with, such as Virtual Desktop*
 3. VorpX *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
 
 Additionally: IL-2 profile created by the community on the SAS forum
 
 #### Setup
-1. Open VorpX. You need to select the configuration page. In ..., select SteamVR.
-
-2. Download online or install the community-created IL-2 profile.
-3. Open the translation program (usually on both the PC and the VR headset).
-4. Open SteamVR.
-5. Launch IL-2. If successful, you'll see the VorpX image conversion and a tutorial.
+1. Open VorpX. You need to select the configuration page. In ..., select SteamVR
+2. Download online or install the community-created IL-2 profile
+3. Open the translation program (usually on both the PC and the VR headset)
+4. Open SteamVR
+5. Launch IL-2. If successful, you'll see the VorpX image conversion and a tutorial
 
 6. Enjoy!
 
@@ -90,8 +89,8 @@ This path is designed to improve performance by directly translating IL-2 to the
 3. VorpX *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
 
 #### Setup
-1. Open VorpX. You need to select the configuration page. In ..., select ..., depending on your VR headset. Exclude SteamVR. If nothing works, try the last two options.
-2. Download online or install a community-created profile for IL-2.
-3. Open the broadcasting program (usually on both your PC and your VR headset).
-4. Launch IL-2. If successful, you will see VorpX image conversion and a tutorial.
+1. Open VorpX. You need to select the configuration page. In ..., select ..., depending on your VR headset. Exclude SteamVR. If nothing works, try the last two options
+2. Download online or install a community-created profile for IL-2
+3. Open the broadcasting program (usually on both your PC and your VR headset)
+4. Launch IL-2. If successful, you will see VorpX image conversion and a tutorial
 5. Enjoy!
