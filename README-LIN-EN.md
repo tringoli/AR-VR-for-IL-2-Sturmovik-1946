@@ -48,7 +48,7 @@ We decided to highlight this as a backup method if nothing else works or the nec
 #### What do we need?
 1. OpenTrack ([GitHub](https://github.com/opentrack/opentrack))
 2. [VDO.Ninja](https://vdo.ninja/)
-3. OBS Studio (**browser support is required** for VDO.Ninja)
+3. [OBS Studio](https://github.com/obsproject/obs-studio) (**browser support is required** for VDO.Ninja)
 
 #### Setup
 1. Prepare your smartphone. Its primary/selected camera should correctly record your head, taking into account lighting, to avoid tracking inaccuracies
