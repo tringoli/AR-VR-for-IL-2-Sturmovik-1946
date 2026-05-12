@@ -32,7 +32,7 @@ The most affordable option on Linux. It is based on head tracking using the AI â
 #### What do we need?
 
 1. OpenTrack ([GitHub](https://github.com/opentrack/opentrack))
-2. Any app for turning your smartphone into a PC camera. *We'll describe the VDO.Ninja method here, as it's surprisingly the easiest to set up.*
+2. Any app for turning your smartphone into a PC camera. *We'll describe the VDO.Ninja method here as an example.*
 3. OBS Browser (**browser support required** for VDO.Ninja)
 4. For low latency, we recommend using a USB cable or stable 5G Wi-Fi.
 
