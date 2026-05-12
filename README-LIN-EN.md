@@ -3,7 +3,7 @@
 
 Due to the decentralized nature of Linux distributions, it is virtually impossible to guarantee full compatibility with VR devices. In this regard, Windows is the most practical option. On the other hand, AR doesn't present any particular challenges for setup.
 
-## Before You Begin
+## Before We Begin
 Implementing AR/VR on Linux won't cause any issues with your important files, but feel free to backup your IL-2 Sturmovik directory before proceeding.
 
 AR/VR should work with mods thanks to various technical solutions.
