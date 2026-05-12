@@ -20,7 +20,7 @@ There are many AR devices available in stores/marketplaces in your country. **Pl
 
 #### Setup
 1. Prepare your AR device (as described in the product manual)
-2. Open OpenTrack. Select…
+2. Open OpenTrack. Select a convenient data source (PointTracker usually works)
 3. Launch IL-2. If successful, the in-game camera will follow your head
 
 4. Enjoy!
@@ -31,13 +31,14 @@ The most affordable option on Linux. It is based on head tracking using the AI �
 #### What do we need?
 
 1. OpenTrack ([GitHub](https://github.com/opentrack/opentrack))
-2. Any app that turns your smartphone into a PC camera. *Try DroidCam, for example*
-3. For low latency, we recommend using a USB cable or stable 5G Wi-Fi
+2. ["NeuralNet tracker with ONXX"](https://github.com/opentrack/opentrack/wiki/Building-on-linux#4-optional-dependences)
+3. Any app for turning your smartphone into a PC camera. *Try DroidCam, for example*
+4. For low latency, a USB cable or stable 5G Wi-Fi is recommended
 
 #### Setup
-1. Prepare your smartphone. Its primary/selected camera should correctly record your head, taking into account lighting conditions to avoid tracking inaccuracies
-2. Open the camera software on both your PC and smartphone
-3. Open OpenTrack. Select your camera in the input settings
+1. Prepare your smartphone. Its primary/selected camera must correctly record your head, taking into account lighting, to avoid identification errors
+2. Find software that works with the connector on both the PC and the smartphone
+3. Open OpenTrack with the plugin installed. Select NeuralNet as the output interface. Go to the output settings, select the camera, and calibrate
 4. Launch IL-2. If successful, the in-game camera will follow your head
 
 5. Enjoy!
@@ -48,7 +49,7 @@ We decided to highlight this as a backup method if nothing else works or the nec
 #### What do we need?
 1. OpenTrack ([GitHub](https://github.com/opentrack/opentrack))
 2. [VDO.Ninja](https://vdo.ninja/)
-3. [OBS Studio](https://github.com/obsproject/obs-studio) (**browser support is required** for VDO.Ninja)
+3. OBS Studio ([GitHub](https://github.com/obsproject/obs-studio), **browser support is required** for VDO.Ninja)
 
 #### Setup
 1. Prepare your smartphone. Its primary/selected camera should correctly record your head, taking into account lighting, to avoid tracking inaccuracies
@@ -104,8 +105,9 @@ A workaround involving linking the window to the player's view using a combinati
 
 #### What do we need?
 1. OpenTrack ([GitHub](https://github.com/opentrack/opentrack))
-2. [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
-3. ALVR ([GitHub](https://github.com/alvr-org/ALVR))
+2. Плагин ["Valve SteamVR support"](https://github.com/opentrack/opentrack/wiki/Building-on-linux#4-optional-dependencies)
+3. [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
+4. ALVR ([GitHub](https://github.com/alvr-org/ALVR))
 
 #### Setup
 1. Open OpenTrack. Select "SteamVR" in the input settings
