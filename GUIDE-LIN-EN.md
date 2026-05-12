@@ -101,7 +101,7 @@ A workaround involving linking the window to the player's view using a combinati
 
 #### What do we need?
 1. OpenTrack ([GitHub](https://github.com/opentrack/opentrack))
-2. Плагин ["Valve SteamVR support"](https://github.com/opentrack/opentrack/wiki/Building-on-linux#4-optional-dependencies)
+2. ["Valve SteamVR support"](https://github.com/opentrack/opentrack/wiki/Building-on-linux#4-optional-dependencies)
 3. [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 4. ALVR ([GitHub](https://github.com/alvr-org/ALVR))
 
