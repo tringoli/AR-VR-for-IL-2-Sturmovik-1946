@@ -7,7 +7,7 @@ This manual as repository has been created for collecting all knowable ways to i
 Approximately zero information about AR/VR for IL-2. Of course, you can try to understand what to do with software common manuals, but I wanted to summarize everything about this in certain for wide range of IL-2 players.
 
 ## Future potential for the manual?
-Well, somebody can try to create a specific modification for IL-2 to implement native 3D VR render. There could be option with transforming the game to newer DirectX versions, which must have support of VR etc.
+Well, somebody can try to create a specific modification for IL-2 to implement native 3D VR render. There could be option with transforming the game to newer DirectX versions, which must have support of VR etc. However, in 2020, [the "rudiments" of a VR mod](https://www.sas1946.com/main/index.php?topic=63444.0) were created.
 
 ## I need your help!
 The author can't try every path he described here, so you can add important details to chapters. Feel free to create a commit!
