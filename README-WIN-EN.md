@@ -17,34 +17,30 @@ The most suitable path for those just wanting to try it out. Here we present two
 There are many AR devices available in stores and marketplaces in your country. You shouldn't have any trouble adapting the IL-2 to any of them. There are no recommendations for which one to choose; it's up to you.
 
 #### What do we need?
-
 1. OpenTrack ([GitHub](https://github.com/opentrack/opentrack)) or specialized AR object tracking software. *The first option is preferred for greater flexibility*
 
 #### Setup
-1. Install OpenTrack
-2. Prepare your AR device (as described in the product manual)
-3. Open OpenTrack. Select…
-4. Launch IL-2. If successful, the in-game camera will follow your head
+1. Prepare your AR device (as described in the product manual)
+2. Open OpenTrack. Select a convenient data source (PointTracker usually works)
+3. Launch IL-2. If successful, the in-game camera will follow your head
 
-5. Enjoy!
+4. Enjoy!
 
 ### Free AR
 It's based on head tracking using the AI ​​built into OpenTrack. You can use your smartphone *or webcam*.
 
 #### What do we need?
-
 1. Opentrack ([GitHub](https://github.com/opentrack/opentrack))
 2. Any app for turning your smartphone into a PC camera. *You can try Camo Studio to get started*
 3. For low latency, we recommend using a USB cable or stable 5G Wi-Fi
 
 #### Setup
-1. Install Opentrack
-2. Prepare your smartphone. Its primary/selected camera should correctly record your head, taking into account lighting, to avoid tracking inaccuracies
-3. Open the camera software on both your PC and smartphone
-4. Open Opentrack. Select…
-5. Launch IL-2. If successful, the in-game camera will follow your head
+1. Prepare your smartphone. Its primary/selected camera should correctly record your head, taking into account lighting, to avoid tracking inaccuracies
+2. Open the camera software on both your PC and smartphone
+3. Open OpenTrack. Select NeuralNet as the output interface. Go to the output settings, select the camera, and calibrate
+4. Launch IL-2. If successful, the in-game camera will follow your head
 
-6. Enjoy!
+5. Enjoy!
 
 ## VR Adaptation for IL-2
 To achieve the best image quality, you need to invest in specialized software. Here we'll use VorpX to convert 2D to 3D VR. We'll describe how to work with and without SteamVR.
@@ -60,12 +56,11 @@ To achieve the best image quality, you need to invest in specialized software. H
 The most stable method for most VR headsets. It should work correctly if your VR headset doesn't have its own conversion software.
 
 #### What do we need?
-
 1. [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 2. Software for converting output from a PC to a VR monitor. *This can be any program you're familiar with, such as Virtual Desktop*
 3. VorpX *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
 
-Additionally: IL-2 profile created by the community on the SAS forum
+Additionally: IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)
 
 #### Setup
 1. Open VorpX. You need to select the configuration page. In ..., select SteamVR
@@ -84,9 +79,10 @@ Additionally: IL-2 profile created by the community on the SAS forum
 This path is designed to improve performance by directly translating IL-2 to the VR headset.
 
 #### What do we need?
-
 1. A program for translating the output from the PC to the VR monitor. *This can be any program you know, such as Virtual Desktop*
-3. VorpX *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
+2. VorpX *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
+
+Additionally: IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)
 
 #### Setup
 1. Open VorpX. You need to select the configuration page. In ..., select ..., depending on your VR headset. Exclude SteamVR. If nothing works, try the last two options
