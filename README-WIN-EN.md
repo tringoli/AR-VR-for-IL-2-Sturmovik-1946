@@ -3,8 +3,6 @@ Windows 11 was the first tested OS for an experiment. It's the most preferable p
 
 It should work well also on Windows 10. Windows 8 and older versions could be too outdated.
 
-*Linux path is described here.*
-
 ## Before we start
 AR/VR implementation on Windows wouldn't cause problems with any of your important files, but feel free to back up IL-2 Sturmovik directory before next steps.
 
