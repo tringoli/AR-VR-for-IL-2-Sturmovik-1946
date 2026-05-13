@@ -12,7 +12,7 @@ AR/VR should work with mods thanks to various technical solutions.
 The most suitable path for those just wanting to try it out. Here we present two options: completely free and low-budget.
 
 ### Budget AR
-*This chapter has not been tested by the author. You can help by submitting reports.*
+> *This chapter has not been tested by the author. You can help by submitting reports.*
 
 There are many AR devices available in stores and marketplaces in your country. You shouldn't have any trouble adapting the IL-2 to any of them. There are no recommendations for which one to choose; it's up to you.
 
@@ -45,7 +45,7 @@ It's based on head tracking using the AI ​​built into OpenTrack. You can use
 ## VR Adaptation for IL-2
 To achieve the best image quality, you need to invest in specialized software. Here we'll use VorpX to convert 2D to 3D VR. We'll describe how to work with and without SteamVR.
 
-*You can commit if you know of any unused features. It would be greatly appreciated.*
+> *You can commit if you know of any unused features. It would be greatly appreciated.*
 
 ### Tested VR Headsets
 * Meta Quest, Valve Index, and other major VR headsets — should work
@@ -74,7 +74,7 @@ Additionally: IL-2 profile created by the community on the [IL-2 forum](https://
 *Make sure VorpX works with SteamVR. If not, try a different "Device Selection" in "General"*
 
 ### Without SteamVR
-*This chapter has not been tested by the author. You can help by submitting reports.*
+> *This chapter has not been tested by the author. You can help by submitting reports.*
 
 This path is designed to improve performance by directly translating IL-2 to the VR headset.
 
