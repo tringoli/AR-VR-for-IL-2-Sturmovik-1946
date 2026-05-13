@@ -58,13 +58,13 @@ The most stable method for most VR headsets. It should work correctly if your VR
 #### What do we need?
 1. [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 2. Software for converting output from a PC to a VR monitor. *This can be any program you're familiar with, such as Virtual Desktop*
-3. VorpX *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
+3. VorpX. *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
 
 Additionally: IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)
 
 #### Setup
-1. Open VorpX. You need to select the configuration page. In ..., select SteamVR
-2. Download online or install the community-created IL-2 profile
+1. Open VorpX. Select the configuration page ("vorpX Config"). Under "General," select "SteamVR (Index, Vive, Pimax)"
+2. Under "Cloud/Local Profiles," download or install the community-created IL-2 profile online
 3. Open the translation program (usually on both the PC and the VR headset)
 4. Open SteamVR
 5. Launch IL-2. If successful, you'll see the VorpX image conversion and a tutorial
@@ -80,13 +80,14 @@ This path is designed to improve performance by directly translating IL-2 to the
 
 #### What do we need?
 1. A program for translating the output from the PC to the VR monitor. *This can be any program you know, such as Virtual Desktop*
-2. VorpX *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
+2. VorpX. *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
 
 Additionally: IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)
 
 #### Setup
-1. Open VorpX. You need to select the configuration page. In ..., select ..., depending on your VR headset. Exclude SteamVR. If nothing works, try the last two options
-2. Download online or install a community-created profile for IL-2
+1. Open VorpX. Select the configuration page ("vorpX Config"). In the "General" section, select the appropriate option in "Device Selection" depending on your VR headset. Exclude SteamVR. If nothing works, try the last two options
+2. In the "Cloud/Local Profiles" section, download or install a community-created profile for IL-2
 3. Open the broadcasting program (usually on both your PC and your VR headset)
 4. Launch IL-2. If successful, you will see VorpX image conversion and a tutorial
+
 5. Enjoy!
