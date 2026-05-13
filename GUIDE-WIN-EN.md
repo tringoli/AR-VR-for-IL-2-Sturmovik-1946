@@ -71,7 +71,7 @@ Additionally: IL-2 profile created by the community on the [IL-2 forum](https://
 
 6. Enjoy!
 
-*Make sure VorpX works with SteamVR. If not, try other options in...*
+*Make sure VorpX works with SteamVR. If not, try a different "Device Selection" in "General"*
 
 ### Without SteamVR
 *This chapter has not been tested by the author. You can help by submitting reports.*
@@ -91,3 +91,5 @@ Additionally: IL-2 profile created by the community on the [IL-2 forum](https://
 4. Launch IL-2. If successful, you will see VorpX image conversion and a tutorial
 
 5. Enjoy!
+
+*Make sure VorpX is running in the background. If not, try a different "Device Selection" in "General"*
