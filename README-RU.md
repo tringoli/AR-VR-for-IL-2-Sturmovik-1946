@@ -1,4 +1,4 @@
-[:gb:](https://github.com/tringoli/AR-VR-for-Il-2-Sturmovik-1946/blob/main/README-RU.md)/:ru:
+[:gb:](https://github.com/tringoli/AR-VR-for-IL-2-Sturmovik-1946/blob/main/README.md)/:ru:
 
 # Добро пожаловать!
 Это руководство, созданное как репозиторий, предназначено для сбора всех известных способов реализации дополненной и виртуальной реальности для игры IL-2 Sturmovik: 1946. Существует множество способов реализации AR/VR на Windows, Linux *и MacOS (скоро™)*.
