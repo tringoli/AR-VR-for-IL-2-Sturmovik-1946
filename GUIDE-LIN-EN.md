@@ -46,8 +46,9 @@ We decided to highlight this as a backup method if nothing else works or the nec
 
 #### What do we need?
 1. OpenTrack ([GitHub](https://github.com/opentrack/opentrack))
-2. [VDO.Ninja](https://vdo.ninja/)
-3. OBS Studio ([GitHub](https://github.com/obsproject/obs-studio), **browser support is required** for VDO.Ninja)
+2. ["NeuralNet tracker with ONXX"](https://github.com/opentrack/opentrack/wiki/Building-on-linux#4-optional-dependences)
+3. [VDO.Ninja](https://vdo.ninja/)
+4. OBS Studio ([GitHub](https://github.com/obsproject/obs-studio), **browser support is required** for VDO.Ninja)
 
 #### Setup
 1. Prepare your smartphone. Its primary/selected camera should correctly record your head, taking into account lighting, to avoid tracking inaccuracies
@@ -55,7 +56,7 @@ We decided to highlight this as a backup method if nothing else works or the nec
    * Open VDO.Ninja on your smartphone. Start a room and create a link for OBS
    * Create a scene in OBS, select the "Browser" option. Paste the link from VDO.Ninja into the scene settings.
    * Specify the correct camera resolution *(this can also be found in VDO.Ninja)*
-3. Open OpenTrack. Select your camera in the input settings
+3. Open OpenTrack with the plugin installed. Select NeuralNet as the output interface. Go to the output settings, select the camera, and calibrate
 4. Launch IL-2. If successful, the in-game camera will follow your head
 
 5. Enjoy!
