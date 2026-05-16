@@ -58,7 +58,7 @@ The most stable method for most VR headsets. It should work correctly if your VR
 #### What do we need?
 1. [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 2. Software for converting output from a PC to a VR monitor. *This can be any program you're familiar with, such as Virtual Desktop*
-3. VorpX. *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
+3. VorpX
 
 Additionally: IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)
 
@@ -80,7 +80,7 @@ This path is designed to improve performance by directly translating IL-2 to the
 
 #### What do we need?
 1. A program for translating the output from the PC to the VR monitor. *This can be any program you know, such as Virtual Desktop*
-2. VorpX. *You can try testing it with [4PDA](https://4pda.to/stat/go?u=https%3A%2F%2Fdisk.yandex.ru%2Fd%2F6iYhJOBe3ZtYAg&e=110018648&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D1034301%26st%3D5260%23entry118062338)*
+2. VorpX
 
 Additionally: IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)
 
