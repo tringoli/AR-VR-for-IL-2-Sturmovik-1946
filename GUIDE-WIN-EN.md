@@ -60,7 +60,9 @@ The most stable method for most VR headsets. It should work correctly if your VR
 2. Software for converting output from a PC to a VR monitor. *This can be any program you're familiar with, such as Virtual Desktop*
 3. VorpX
 
-Additionally: IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)
+*Additionally:*
+* *OpenTrack for full (6-DoF) VR ([GitHub](https://github.com/opentrack/opentrack))*
+* *IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)*
 
 #### Setup
 1. Open VorpX. Select the configuration page ("vorpX Config"). Under "General," select "SteamVR (Index, Vive, Pimax)"
@@ -68,8 +70,9 @@ Additionally: IL-2 profile created by the community on the [IL-2 forum](https://
 3. Open the translation program (usually on both the PC and the VR headset)
 4. Open SteamVR
 5. Launch IL-2. If successful, you'll see the VorpX image conversion and a tutorial
+6. *Go to the VorpX menu, external page "Head Tracking Settings". Enable TrackIR - VorpX should automatically launch OpenTrack*
 
-6. Enjoy!
+7. Enjoy!
 
 *Make sure VorpX works with SteamVR. If not, try a different "Device Selection" in "General"*
 
@@ -82,14 +85,17 @@ This path is designed to improve performance by directly translating IL-2 to the
 1. A program for translating the output from the PC to the VR monitor. *This can be any program you know, such as Virtual Desktop*
 2. VorpX
 
-Additionally: IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)
+*Additionally:*
+* *OpenTrack for full (6-DoF) VR ([GitHub](https://github.com/opentrack/opentrack))*
+* *IL-2 profile created by the community on the [IL-2 forum](https://forum.il2sturmovik.com/topic/69192-for-rift-s-il2_1946_bat-v385_vorpx_opentrack_logitech-x52_settings_v01/)*
 
 #### Setup
 1. Open VorpX. Select the configuration page ("vorpX Config"). In the "General" section, select the appropriate option in "Device Selection" depending on your VR headset. Exclude SteamVR. If nothing works, try the last two options
 2. In the "Cloud/Local Profiles" section, download or install a community-created profile for IL-2
 3. Open the broadcasting program (usually on both your PC and your VR headset)
 4. Launch IL-2. If successful, you will see VorpX image conversion and a tutorial
+5. *Go to the VorpX menu, external page "Head Tracking Settings". Enable TrackIR - VorpX should automatically launch OpenTrack*
 
-5. Enjoy!
+6. Enjoy!
 
 *Make sure VorpX is running in the background. If not, try a different "Device Selection" in "General"*
